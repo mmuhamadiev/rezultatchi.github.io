@@ -87800,7 +87800,7 @@ L(a){var s=A.arn(null,B.dS,!0),r=$.aJ()
 return new A.zb(new A.KG(new A.i7(B.br,r),new A.i7(B.br,r),null),"Rezultatchi",s,!1,null)}}
 A.yq.prototype={
 ak(){var s=$.aJ(),r=t.s
-return new A.RJ(new A.i7(B.br,s),new A.i7(B.br,s),new A.i7(B.br,s),new A.i7(B.br,s),new A.i7(B.br,s),A.a(["Negative / \u041e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 ","Positive / \u041f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 ","Week-positive / \u0421\u043b\u0430\u0431\u043e \u041f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 "],r),A.a(["Male / \u041c\u0443\u0436\u0447\u0438\u043d\u0430","Female / \u0416\u0435\u043d\u0449\u0438\u043d\u0430"],r),new A.bU(Date.now(),!1),new A.bU(Date.now(),!1),new A.bU(Date.now(),!1),A.aDl("dd.MM.yyyy hh:mm"),t.FU.a($.Xx().vw("history",!1,t.NP)),B.i)}}
+return new A.RJ(new A.i7(B.br,s),new A.i7(B.br,s),new A.i7(B.br,s),new A.i7(B.br,s),new A.i7(B.br,s),A.a(["Negative / \u041e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 ","Positive / \u041f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 ","Week-positive / \u0421\u043b\u0430\u0431\u043e \u041f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 "],r),A.a(["Male / \u041c\u0443\u0436\u0447\u0438\u043d\u0430","Female / \u0416\u0435\u043d\u0449\u0438\u043d\u0430"],r),new A.bU(Date.now(),!1),new A.bU(Date.now(),!1),new A.bU(Date.now(),!1),A.aDl("dd.MM.yyyy HH:mm"),t.FU.a($.Xx().vw("history",!1,t.NP)),B.i)}}
 A.RJ.prototype={
 aay(a){A.azK(new A.ajh(this,a),a,t.z)},
 aaz(a){A.azK(new A.ajd(this,a),a,t.z)},
